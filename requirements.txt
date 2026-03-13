@@ -1,0 +1,9 @@
+fastapi
+uvicorn
+python-multipart
+pdfplumber
+openai
+python-dotenv
+numpy
+scikit-learn
+rapidfuzz
